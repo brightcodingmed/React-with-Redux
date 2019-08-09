@@ -1,0 +1,38 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "label": "Learn RectJS",
+      "active": true
+    },
+    {
+      "id": 3,
+      "label": "Learn Spring",
+      "active": true
+    },
+    {
+      "label": "Learn NestJS",
+      "id": 4
+    },
+    {
+      "label": "Learn NodeJS",
+      "active": false,
+      "id": 5
+    },
+    {
+      "label": "Learn Svelte 3",
+      "active": false,
+      "id": 6
+    },
+    {
+      "label": "Learn ExpressJS",
+      "active": false,
+      "id": 7
+    },
+    {
+      "label": "Learn MongoDB",
+      "active": false,
+      "id": 8
+    }
+  ]
+}
